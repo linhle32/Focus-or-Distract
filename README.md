@@ -41,12 +41,12 @@ While some modules are packaged for easier importing, I had to repeat some codes
 
 ### Visualization of video processing step
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/5643444/232187226-232c4ecc-04e8-451b-bc78-8ad6d751e51c.png)
 
 ### Example of facial landmarks and pupil data
 
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/5643444/232187251-c52ce1bd-2541-44bd-bd03-0a8688d2897c.png)
 
 ### All model performances from 10-fold cross-validation
 
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/5643444/232187262-e94b2781-a7e9-4275-8f64-182168328ff7.png)
