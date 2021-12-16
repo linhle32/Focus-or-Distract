@@ -1,5 +1,7 @@
 # Focus or Distract
 
+*** Update 12-15-2021: my paper has been published in IEEE Big Data 2021 https://ieeexplore.ieee.org/abstract/document/9671466 ***
+
 This repository consists of codes for my research on modeling concentration of students during online studying. The input is video data from webcam, and output is label FOCUS or DISTRACT. Unfortunately, this repository is code only because the video data is from volunteers which we cannot share. Regardless, I believe the code is helpful as it can be adapted to other tasks in facial video classification, e.g., emotion detection.
 
 ### Used packages
