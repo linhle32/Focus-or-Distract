@@ -18,13 +18,14 @@ This repository consists of codes for my research on modeling concentration of s
 
 ### Summary
 
+#### Processing
 Videos are processed in four different types. Each type of processed data undergoes different models. Original videos should be placed in folders organized by classes (i.e., each folder consists of videos belong to one class)
 1. Resample => Crop => Remove color
 2. After 1), extract facial landmarks (using dlib) and pupil data (coordinates and blinking statuses) for each frame
 3. After 1), embed each frame using VGG2
 4. After 1), embed each frame using FaceNet
 
-Models:
+#### Models
 1. FaceNet/VGG/Landmark data => 1DCNN/GRU/bidirectionGRU => self-attention => dense => output
 2. Video data => 2DCNN => 1DCNN/GRU/bidirectionGRU => self-attention => dense => output
 3. Video data => 3DCNN => GRU => self-attention => dense => output
